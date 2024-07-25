@@ -1,4 +1,5 @@
 <h1>Jogo do número secreto</h1>
+<h2>o projeto e sobre um sorteio de numeros aleatorios de 1 a 10 com o intuito de a</h2>
 
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de Versionamento.</p>
